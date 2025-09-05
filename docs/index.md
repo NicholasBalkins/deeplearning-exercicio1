@@ -53,7 +53,7 @@ plt.axhline(y02, color='k', linestyle='--', linewidth=2)
 plt.legend(loc='best')
 plt.xlabel("X1")
 plt.ylabel("X2")
-plt.title("Separações 'hard-coded' (4 linhas simples)")
+plt.title("Separações 4 linhas")
 plt.tight_layout()
 plt.show()
 
