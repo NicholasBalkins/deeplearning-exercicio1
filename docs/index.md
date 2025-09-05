@@ -5,7 +5,7 @@
 
 **Objetivo.** Gerar 400 exemplos de 4 datasets sinteticos, plotar seus dados e fazer uma fronteiras linear.
 
-**Como fiz (resumo).**
+**Como fiz**
 - Gerei 400 pontos com `numpy.random.normal` usando as médias e desvios do enunciado.
 - Plotei os dados em scatter.
 - Desenhei linhas simples para sugerir possíveis fronteiras.
